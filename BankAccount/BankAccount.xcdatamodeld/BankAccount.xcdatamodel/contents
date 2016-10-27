@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="16A323" minimumToolsVersion="Xcode 7.0" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Transaction" representedClassName=".Transaction" syncable="YES">
+        <attribute name="credit" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="transaction" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="value" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="when" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Transaction" positionX="-63" positionY="-18" width="128" height="105"/>
+    </elements>
+</model>

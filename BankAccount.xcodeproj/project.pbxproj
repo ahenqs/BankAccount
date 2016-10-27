@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		531C71251BD6E5FD0053AEEF /* DBHelperExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531C71241BD6E5FD0053AEEF /* DBHelperExtension.swift */; };
 		532A2F701DC21025005F9BDB /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 532A2F6F1DC21025005F9BDB /* Constants.swift */; };
+		532A2F721DC215D5005F9BDB /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 532A2F711DC215D5005F9BDB /* README.md */; };
 		53CCBDBF1BD57704004DCE2F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53CCBDBE1BD57704004DCE2F /* AppDelegate.swift */; };
 		53CCBDC11BD57704004DCE2F /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53CCBDC01BD57704004DCE2F /* HomeViewController.swift */; };
 		53CCBDC41BD57704004DCE2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53CCBDC21BD57704004DCE2F /* Main.storyboard */; };
@@ -53,6 +54,7 @@
 /* Begin PBXFileReference section */
 		531C71241BD6E5FD0053AEEF /* DBHelperExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBHelperExtension.swift; sourceTree = "<group>"; };
 		532A2F6F1DC21025005F9BDB /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		532A2F711DC215D5005F9BDB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		53CCBDBB1BD57704004DCE2F /* BankAccount.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BankAccount.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		53CCBDBE1BD57704004DCE2F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		53CCBDC01BD57704004DCE2F /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 		53CCBDB21BD57703004DCE2F = {
 			isa = PBXGroup;
 			children = (
+				532A2F711DC215D5005F9BDB /* README.md */,
 				53CCBDBD1BD57704004DCE2F /* BankAccount */,
 				53CCBDD71BD584E8004DCE2F /* BankAccountTests */,
 				53CCBDBC1BD57704004DCE2F /* Products */,
@@ -301,6 +304,7 @@
 				53E925EA1BD68A8C0061B72C /* StatementTableViewCell.swift in Sources */,
 				53E926301BD6E18F0061B72C /* NSDateExtension.swift in Sources */,
 				532A2F701DC21025005F9BDB /* Constants.swift in Sources */,
+				532A2F721DC215D5005F9BDB /* README.md in Sources */,
 				53CCBDD11BD578D1004DCE2F /* Account.swift in Sources */,
 				53E9262B1BD6E0E00061B72C /* Transaction.swift in Sources */,
 			);
